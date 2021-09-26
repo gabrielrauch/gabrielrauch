@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rauch</h1>
-<h3 align="center">A passionate fullstack (❤️ backend) developer from Brazil</h3>
+<h3 align="center">A passionate junior fullstack (❤️ backend) developer from Brazil</h3>
 
 - 🔭 I’m currently working on [A Todo App](https://github.com/gabrielrauch/todo-eliti)
 

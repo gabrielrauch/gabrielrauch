@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rauch</h1>
 <h3 align="center">A passionate fullstack (❤️ backend) developer from Brazil</h3>
 
-- 🔭 I’m currently working on [A Todo App](https://github.com/gabrielrauch/todo-react)
+- 🔭 I’m currently working on [A Todo App](https://github.com/gabrielrauch/todo-react-state)
 
 - 🌱 I’m currently learning **React, Next JS, Node for backend, Typescript**
 

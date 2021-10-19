@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rauch</h1>
 
-- 🔭 I’m currently working on [A Store App](https://github.com/gabrielrauch/bandeclay-store)
+- 🌱 I’m currently learning **React, Next JS, Node, Typescript**
 
-- 🌱 I’m currently learning **React, Next JS, Node for backend, Typescript**
-
-- 💬 Ask me about **React, HTML, CSS, Node**
+- 💬 Ask me about **React, HTML, CSS, Node, Next, JS, TS**
 
 - 📫 How to reach me **gabrielrauch@pm.me**
 

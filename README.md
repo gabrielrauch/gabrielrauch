@@ -16,14 +16,14 @@
 <p align="center">
 Timezone: America/Sao Paulo (UTC)
 </p>
-<br />
-<p> </p> 
-📚 I’m currently learning ... TypeScript, AdonisJS <br />
+
+<p align="center"> 📚 I’m currently learning ... TypeScript, AdonisJS <br />
 💬 Ask me about anything related to... my projects and... music! <br />
 :ghost: Fun fact: ... The only social network i use except github and linkedin is last.fm <br />
+</p> 
 
 <br />
-<br />
+
 <p>
   <h3 align="center">Languages and Tools</h3>
 </p>

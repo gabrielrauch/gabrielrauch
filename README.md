@@ -17,7 +17,7 @@
 Timezone: America/Sao Paulo (UTC)
 </p>
 
-<p align="center"> 📚 I’m currently learning ... TypeScript, AdonisJS <br />
+<p align="center"> 📚 I’m currently learning ... TypeScript, AdonisJS, TDD <br />
 💬 Ask me about anything related to... my projects and... music! <br />
 :ghost: Fun fact: ... The only social network i use except github and linkedin is last.fm <br />
 </p> 

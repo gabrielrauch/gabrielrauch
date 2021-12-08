@@ -12,7 +12,7 @@
 <p align="center"> Fullstack developer, love for challenges, always seeking knowledge. </p>
 <br />
 
-<h2 align="center">About me 🧑🏼‍💻</h2>
+<h2 align="center">About me/h2>
 <p align="center">
 Timezone: America/Sao Paulo (UTC)
 </p>

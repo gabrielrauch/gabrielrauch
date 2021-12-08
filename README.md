@@ -17,7 +17,7 @@
 Timezone: America/Sao Paulo (UTC)
 </p>
 
-<p align="center"> 📚 I’m currently learning ... TypeScript, AdonisJS, TDD <br />
+<p align="center"> 📚 I’m currently learning ... React, NodeJS, Typescript<br />
 💬 Ask me about anything related to... my projects and... music! <br />
 </p> 
 

@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on expanding my knowledge<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with Java and obsidian.md<br>🌱 I’m currently learning Java<br>💬 Ask me about JS, TS & frontend architecture<br>⚡ Fun fact: I'm a musical producer
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielrauch) 
 
